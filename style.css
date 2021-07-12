@@ -1,0 +1,29 @@
+body{
+	background-color: darkslategrey;
+	font-family: sans-serif;
+}
+
+.warapper{
+	text-align: center;
+	color:wheat;
+}
+
+#second {
+	font-size: 32px;
+}
+
+#tens{
+	font-size: 32px;	
+}
+
+button{
+	background-color: darkslategrey;
+	border-radius: 30px;
+	color: wheat;
+	padding: 15px 10px;
+	width: 90px;
+	margin: 5px;
+	border: 1px solid white;
+	cursor: pointer;
+	font-size: 20px;
+}
